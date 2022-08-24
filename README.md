@@ -28,12 +28,18 @@ The following Eco Systems are focussed:
 
 ## Onboarding
 
+The GAIAboX Testbed Onboarding.
+
+How to onboard a software component and make it a _test item_, the "Component Under Test (**CUT**)".
+
 ---
 
 ## Testsuite
 
-Preferred namespace prefix: `tesi`.
+GAIAboX Testsuite.
 
-The Testsuite, inter-acting with the GAIAboX Testbed Instance (TESTBED)
+The Testsuite, inter-acting with the GAIAboX Testbed Instance (TESTBED) presenting given front-end, a web application.
+
+Onboarded Operators are allowed to work with the GAIAboX TESTSUITE (as a Service Instance). 
 
 ---
